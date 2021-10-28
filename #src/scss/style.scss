@@ -709,7 +709,7 @@ input:checked {
             width: 70%;
             font-size: calcFluidFontSize(14, 16, 320, 1920);
             line-height: 2;
-            margin-bottom: calcFluidFontSize(20, 50, 320, 1920);
+            margin-bottom: calcFluidFontSize(20, 50, 320, 3840);
             @media (max-width: $md4 + px) {
                 width: 100%;
             }
